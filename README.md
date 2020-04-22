@@ -1,4 +1,5 @@
-Setup Instructions:
+
+Instructions:
 
 * git clone https://github.com/PeterGemmell/social_media_app
 
