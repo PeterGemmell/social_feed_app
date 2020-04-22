@@ -1,7 +1,7 @@
 
 Instructions:
 
-* git clone https://github.com/PeterGemmell/social_media_app
+* git clone https://github.com/PeterGemmell/social_feed_app
 
 * open two terminal windows. 
 
