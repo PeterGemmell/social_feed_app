@@ -24,7 +24,7 @@ const App = () => {
             token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiNzg5MWZmM2ItOWJjZS00ODE1LWIwYzktMjA1NDI0NzkzYTMyIn0.4zAEraALwEHNXnyq36lqdAWyAIxlSAno1yapbPYopSM"
         >
         <FlatFeed Activity={CustomActivity} notify />
-        <StatusUpdateForm feedGroup="https://goo.gl/Hok8hp" />
+        <StatusUpdateForm feedGroup="timeline" />
         </StreamApp>
       </SafeAreaView>
     </SafeAreaProvider>
