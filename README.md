@@ -7,7 +7,7 @@ Instructions:
 
 * In the first terminal window cd ActivityFeedExample
 
-* type yarn start
+* type yarn start(this will start the React Native development server)
 
 * in the second terminal window cd ActivityFeedExample
 
